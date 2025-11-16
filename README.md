@@ -1,4 +1,4 @@
-# SQL-Internship-Task-5
+# SQL Joins [INNER LEFT RIGHT OUTER ]
 This repository contains the deliverables focusing on demonstrating mastery of various SQL JOIN types [INNER LEFT RIGHT FULL SELF CROSS] using a simulated E-Commerce database.
 --- <br>
 
